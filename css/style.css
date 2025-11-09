@@ -5,6 +5,8 @@ html{
     scroll-behavior: smooth;
 }
 
+
+/** Background **/
 body {	margin: 0; 
 height: 2295px;
 width: 1440px;
@@ -94,6 +96,15 @@ width: 1440px;
 height: 385px;
 background-color: #313131;
 color: white;
-z-index: 1;
 float: left;
+text-align: center;
+}
+
+.foot_Header{
+    width: 1440px;
+    font-family: "Alegreya Sans SC", sans-serif;
+    float: left;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 0px;
 }
