@@ -1,8 +1,14 @@
 @charset "UTF-8";
 /* CSS Document */
+
+html{
+    scroll-behavior: smooth;
+}
+
 body {	margin: 0; }
 
-/** HEADER**/
+
+/** HEADER **/
 header{
     background-color: #0E439F;
     width: 1440px;
@@ -30,4 +36,34 @@ header{
     margin-left: 62px;
 }
 
+/** NAV **/
 
+nav {
+width: 1440px;
+height: 157px;
+text-align: center;
+background: rgb(0, 0, 0, .7);
+float: left;
+position: sticky;
+top: 0;
+
+
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-size: 96px;
+    text-align: center;
+    line-height: 157px;
+    margin: 20px;
+}
+
+a:hover{
+    color: rgb(222, 205, 23);
+}
+
+footer{
+    height: 9000px;
+}
