@@ -1,3 +1,33 @@
 @charset "UTF-8";
 /* CSS Document */
 body {	margin: 0; }
+
+/** HEADER**/
+header{
+    background-color: #0E439F;
+    width: 1440px;
+    height: 420px;
+    color: white;
+    font-family: "Alegreya Sans SC", sans-serif;
+    float: left;
+
+}
+.head_logo{
+    width: 278px;
+    height: 400px;
+    background-image: url(/images/DSR_Logo_White.png);
+    background-size:contain;
+    margin-left: 61px;
+    margin-top: 20px;
+    float: left;
+
+}
+.head_text{
+    width: 955px;
+    height: 421px;
+    font-size: 145px;
+    float: left;
+    margin-left: 62px;
+}
+
+
