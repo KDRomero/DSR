@@ -287,19 +287,43 @@ margin-left:48.5px ;
 
 
 .news_Publisher{
-    background-color: rgb(170, 11, 11);
+    color: white;
     height: 100px;
-    width: 1000px;
-    margin-right: 1100px;
-    margin-top:-297px;
+    width: 15430px;
+    margin-top:-140px;
+    margin-right: 0px;
     text-align: left;
     justify-content: left;
     float: left;
     clear: both;
     z-index: 1;
+    font-size: 30px;
 }
 
+.news_Article{
+float: left;
+font-size: 30px;
+justify-content: center;
+text-align: center;
+width: 1340000px;
+height: 20px;
+margin-right: 0px;
+margin-top: -20px;
+color: white;
+}
 
+.news_Date{
+color: white;
+font-size: 60px;
+justify-content: center;
+text-align: right;
+width: 1343px;
+height: 20px;
+margin-top: 80px;
+margin-right: 20px;
+float: left;
+
+}
 
 .news_Square_One{
 width: 100%;
@@ -329,6 +353,7 @@ background-image: url(/images/News_WallStJournal.jpeg);
 background-size: cover;
 float: left;
 }
+
 
 
 
