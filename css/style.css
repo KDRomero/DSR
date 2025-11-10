@@ -30,11 +30,14 @@ float: left;
 .cultural{
     background-image: url(/images/Cultural_Background.jpg);
     height: 1228px;
+    width: 1440px;
     
 }
 .meet{
     background-image: url(/images/Meet_Us_Background.jpg);
-
+    width: 1440px;
+    height: 2600px;
+    background-size: cover;
 }
 .moma{
     background-image: url(/images/MOMA_Background.jpg);
@@ -42,6 +45,7 @@ float: left;
 }
 .news{
     background-image: url(/images/News_Background.jpg);
+    width: 1440px;
     height: 1852px;
     background-size: cover;
 }
@@ -353,6 +357,89 @@ background-image: url(/images/News_WallStJournal.jpeg);
 background-size: cover;
 float: left;
 }
+
+/** MEET US STUFF **/
+
+.diller_Headshot{
+width: 382px;
+height: 364px;
+float: left;
+border-radius: 382px;
+background-image: url(/images/Elizabeth_Diller.jpeg);
+background-size: cover;
+background-position: center;
+margin-top: 136px;
+margin-left: 70px;
+}
+
+.diller_Text{
+font-size: 30px;
+width: 896px;
+height: 468px;
+margin-left: 56px;
+margin-top: 136px;
+text-align: left;
+float: left;
+font-family: "Alegreya Sans", sans-serif;
+
+
+
+}
+.diller_Title{
+width: 496px;
+height: 93px;
+margin-left: 13px;
+float: left;
+font-size: 60px;
+margin-top: -100px;
+font-family: "Alegreya Sans", sans-serif;
+
+}
+
+.scofidio_Headshot{
+width: 382px;
+height: 364px;
+float: left;
+border-radius: 382px;
+background-image: url(/images/Ricardo_Scofidio.jpeg);
+background-size: cover;
+background-position: center;
+margin-top: 136px;
+margin-left: 70px;
+font-family: "Alegreya Sans", sans-serif;
+
+}
+
+.renfro_Headshot{
+width: 382px;
+height: 364px;
+float: left;
+border-radius: 382px;
+background-image: url(/images/Charles_Renfro.jpeg);
+background-size: cover;
+background-position: center;
+margin-top: 136px;
+margin-left: 70px;
+font-family: "Alegreya Sans", sans-serif;
+
+}
+
+.gilmartin_Headshot{
+width: 382px;
+height: 364px;
+float: left;
+border-radius: 382px;
+background-image: url(/images/Benjamin_Gilmartin.jpeg);
+background-size: cover;
+background-position: center;
+margin-top: 136px;
+margin-left: 70px;
+font-family: "Alegreya Sans", sans-serif;
+
+}
+
+
+
 
 
 
