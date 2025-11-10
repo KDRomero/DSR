@@ -42,7 +42,8 @@ float: left;
 }
 .news{
     background-image: url(/images/News_Background.jpg);
-
+    height: 1852px;
+    background-size: cover;
 }
 
 
@@ -108,7 +109,7 @@ margin-left: 80px;
 margin-right: 50px;
 margin-bottom: 50px;
 }
-.container_Thing_Middle{ /** I literally just used google to find this solution**/
+.container_Thing_Middle{ 
 position: absolute;
 width: 360px;
 height: 360px;
@@ -120,7 +121,7 @@ margin-left: 50px;
 margin-right: 50px;
 margin-bottom: 50px;
 }
-.container_Thing_Right{ /** I literally just used google to find this solution**/
+.container_Thing_Right{ 
 position: absolute;
 width: 360px;
 height: 360px;
@@ -264,6 +265,67 @@ float: left;
 width: 100%;
 height: 100%;
 background-image: url(/images/Cultural_Sarofim_Hall.jpg);
+background-size: cover;
+float: left;
+}
+
+/**NEWS STUFF**/
+
+
+
+.news_Container_Thing{
+position: absolute;
+width: 1343px;
+height: 297px;
+background-color: #ffffff90;
+float: left;
+z-index: 0;
+position: relative;
+margin-top: 65px;
+margin-left:48.5px ;
+}
+
+
+.news_Publisher{
+    background-color: rgb(170, 11, 11);
+    height: 100px;
+    width: 1000px;
+    margin-right: 1100px;
+    margin-top:-297px;
+    text-align: left;
+    justify-content: left;
+    float: left;
+    clear: both;
+    z-index: 1;
+}
+
+
+
+.news_Square_One{
+width: 100%;
+height: 100%;
+background-image: url(/images/News_Moma.jpg);
+background-size: cover;
+float: left;
+}
+.news_Square_Two {
+width: 100%;
+height: 100%;
+background-image: url(/images/News_LATIMES.jpg);
+background-size: cover;
+float: left;
+}
+.news_Square_Three {
+width: 100%;
+height: 100%;
+background-image: url(/images/News_RiceUniversity.jpg);
+background-size: cover;
+float: left;
+}
+.news_Square_Four {
+width: 100%;
+height: 100%;
+background-image: url(/images/News_WallStJournal.jpeg);
 background-size: cover;
 float: left;
 }
