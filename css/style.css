@@ -26,11 +26,14 @@ float: left;
     height: 2045px;
     width: 1440px;
     background-image: url(/images/DSR_Home_Background.png);
+    background-size: cover;
 }
 .cultural{
     background-image: url(/images/Cultural_Background.jpg);
     height: 1228px;
     width: 1440px;
+    background-size: cover;
+
     
 }
 .meet{
@@ -41,6 +44,9 @@ float: left;
 }
 .moma{
     background-image: url(/images/MOMA_Background.jpg);
+    width: 1440px;
+    height: 2570px;
+    background-size: cover;
 
 }
 .news{
@@ -372,7 +378,7 @@ margin-top: 136px;
 margin-left: 70px;
 }
 
-.diller_Text{
+.meet_Us_Text{
 font-size: 30px;
 width: 896px;
 height: 468px;
@@ -440,10 +446,76 @@ font-family: "Alegreya Sans", sans-serif;
 
 
 
+/** MOMA STUFF **/
+
+.moma_Paragraph_One{
+    width: 629px;
+    height: 857px;
+    font-size: 20px;
+    font-family: "Alegreya Sans", sans-serif;
+    text-align: left;
+    float: left;
+    margin-top: 104px;
+    margin-left: 88px;
+
+}
+.moma_Picture_One{
+background-color: white;
+background-image: url(/images/Moma_One.jpg);
+width: 521px;
+height: 819px;
+float: left;
+margin-top: 104px;
+margin-left: 101px;
+background-size: cover;
+}
+
+.moma_Picture_Two{
+background-image: url(/images/Moma_Two.jpg);
+background-size: cover;
+width: 674px;
+height: 439px;
+float: left;
+margin-top: 98px;
+margin-left: 88px;
+}
+
+.moma_Paragraph_Two{
+    width: 514px;
+    height: 481px;
+    font-size: 20px;
+    font-family: "Alegreya Sans", sans-serif;
+    text-align: left;
+    float: left;
+    margin-top: 133px;
+    margin-left: 76px;
+}
 
 
+.moma_Info_Header{
+    width: 674px;
+    height: 93px;
+    font-size: 70px;
+    font-weight: 500;
+    margin-left: 88px;
+    float: left;
+    text-align: left;
+}
 
+.moma_Project_Info_Title{
+    width: 930px;
+    height: 635px;
+    font-size: 60px;
+    float: left;
+    text-align: left;
+    margin-left: 88px;
+}
 
+.moma_Project_Info_Sub{
+    font-size: 40px;
+    font-weight: 300;
+    margin-bottom: 35px;
+}
 
 
 
