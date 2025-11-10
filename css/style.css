@@ -13,22 +13,67 @@ width: 1440px;
 background-color: #707070;
 float: left;
 }
+/**Fix this to individual page dimentions**/
+.image_Overlay{ 
+    height: 2295px;
+    width: 1440px;
+    float: left;
+}
 
-.image_Overlay{
+
+ /** background images for individual pages **/
+.index_bg{
     height: 2295px;
     width: 1440px;
     background-image: url(/images/DSR_Home_Background.png);
-    float: left;
 }
+.cultural{
+    background-image: url(/images/Cultural_Background.jpg);
+
+}
+.meet{
+    background-image: url(/images/Meet_Us_Background.jpg);
+
+}
+.moma{
+    background-image: url(/images/MOMA_Background.jpg);
+
+}
+.news{
+    background-image: url(/images/News_Background.jpg);
+
+}
+
 
 .blue_Shader{
     height: 2295px;
     width: 1440px;
-    background-color: #477BC3;
-    z-index: 1;
+    background-color: #477BC339;
     float: left;
-    opacity: .39;
 }
+
+
+/** The important Body stuffs**/
+
+.studio_text{
+    width: 1320px;
+    height: 369px;
+    color: rgb(255, 255, 255);
+    font-family: "Alegreya Sans", sans-serif;
+    text-align: center;
+    font-size: 29px;
+    justify-content: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    float: left;
+}
+
+
+
+
+
+
+
 
 /** HEADER **/
 header{
@@ -97,14 +142,69 @@ height: 385px;
 background-color: #313131;
 color: white;
 float: left;
-text-align: center;
 }
+
 
 .foot_Header{
     width: 1440px;
+    height: 90px;
     font-family: "Alegreya Sans SC", sans-serif;
     float: left;
     font-size: 70px;
     text-align: center;
-    margin-top: 0px;
+    margin-top: 0px; 
+
+}
+.clear{
+    clear: both;
+}
+.dsr_Contact_Info{
+    margin-top: -3px;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-size: 40px;
+    float: left;
+    clear: both;
+    margin-left: 137px;
+
+}
+
+.dsr_Contact_Info_Two{
+    margin-top: -298px;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-size: 40px;
+    float: left;
+    clear: both;
+    margin-left: 826px;
+
+}
+
+.sub{
+    font-family: "Alegreya Sans", sans-serif;
+    margin-top: -40px;
+    font-size: 30px;
+    float: left;
+}
+
+.sub2{
+        font-family: "Alegreya Sans", sans-serif;
+    margin-top: -251px;
+    font-size: 30px;
+    float: left;
+}
+
+.dsr_Contact_Info_Three{
+    margin-top: -180px;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-size: 40px;
+    float: left;
+    clear: both;
+    margin-left: 826px;
+
+}
+
+.sub3{
+    font-family: "Alegreya Sans", sans-serif;
+    margin-top: -133px;
+    font-size: 30px;
+    float: left;
 }
