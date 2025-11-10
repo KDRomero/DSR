@@ -69,7 +69,12 @@ float: left;
     padding-right: 60px;
     float: left;
 }
-
+#projects{
+    float: left;
+    height: 10px;
+    width: 10px;
+    margin-top: -160px;
+}
 .project_Header{
     width: 1440px;
     height: 68px;
@@ -85,7 +90,6 @@ float: left;
     width: 1368px;
     height: 7px;
     background-color: white;
-    margin-top: -60px;
     margin-left: 36px;
     margin-right: 36px;
     float: left;
@@ -146,6 +150,7 @@ margin-bottom: 100px;
     font-size: 55px;
     justify-content: center;
     transition: all .5s;
+    text-decoration: none;
 }
 .blue_Square_Shade:hover{
     transition: all .5s;
@@ -259,11 +264,9 @@ background: rgb(0, 0, 0, .7);
 float: left;
 position: sticky;
 top: 0;
-z-index: 1;
-
 }
 
-a{
+.nav_links{
     color: rgb(255, 255, 255);
     text-decoration: none;
     font-family: "Alegreya Sans SC", sans-serif;
@@ -273,11 +276,9 @@ a{
     margin: 20px;
 }
 
-a:hover{
+.nav_links:hover{
     color: rgb(222, 205, 23);
 }
-
-
 
 
 
