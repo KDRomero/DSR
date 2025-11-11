@@ -25,11 +25,11 @@ float: left;
 .index_bg{
     height: 2045px;
     width: 1440px;
-    background-image: url(/images/DSR_Home_Background.png);
+    background-image: url(../images/DSR_Home_Background.png);
     background-size: cover;
 }
 .cultural{
-    background-image: url(/images/Cultural_Background.jpg);
+    background-image: url(../images/Cultural_Background.jpg);
     height: 1228px;
     width: 1440px;
     background-size: cover;
@@ -37,20 +37,20 @@ float: left;
     
 }
 .meet{
-    background-image: url(/images/Meet_Us_Background.jpg);
+    background-image: url(../images/Meet_Us_Background.jpg);
     width: 1440px;
     height: 2600px;
     background-size: cover;
 }
 .moma{
-    background-image: url(/images/MOMA_Background.jpg);
+    background-image: url(../images/MOMA_Background.jpg);
     width: 1440px;
     height: 2570px;
     background-size: cover;
 
 }
 .news{
-    background-image: url(/images/News_Background.jpg);
+    background-image: url(../images/News_Background.jpg);
     width: 1440px;
     height: 1650px;
     background-size: cover;
@@ -172,63 +172,63 @@ margin-bottom: 100px;
 .project_Square_One{
 width: 100%;
 height: 100%;
-background-image: url(/images/Project_Cultural.jpg);
+background-image: url(../images/Project_Cultural.jpg);
 background-size: cover;
 float: left;
 }
 .project_Square_Two {
 width: 100%;
 height: 100%;
-background-image: url(/images/Project_Public_Space.jpg);
+background-image: url(../images/Project_Public_Space.jpg);
 background-size: cover;
 float: left;
 }
 .project_Square_Three {
 width: 100%;
 height: 100%;
-background-image: url(/images/Project_Education.jpg);
+background-image: url(../images/Project_Education.jpg);
 background-size: cover;
 float: left;
 }
 .project_Square_Four {
 width: 100%;
 height: 100%;
-background-image: url(/images/Project_Residential.jpg);
+background-image: url(../images/Project_Residential.jpg);
 background-size: cover;
 float: left;
 }
 .project_Square_Five {
 width: 100%;
 height: 100%;
-background-image: url(/images/Project_Commercial.jpeg);
+background-image: url(../images/Project_Commercial.jpeg);
 background-size: cover;
 float: left;
 }
 .project_Square_Six {
 width: 100%;
 height: 100%;
-background-image: url(/images/Project_Installation.jpg);
+background-image: url(../images/Project_Installation.jpg);
 background-size: cover;
 float: left;
 }
 .project_Square_Seven {
 width: 100%;
 height: 100%;
-background-image: url(/images/Project_Display.jpg);
+background-image: url(../images/Project_Display.jpg);
 background-size: cover;
 float: left;
 }
 .project_Square_Eight {
 width: 100%;
 height: 100%;
-background-image: url(/images/Project_Performance.jpg);
+background-image: url(../images/Project_Performance.jpg);
 background-size: cover;
 float: left;
 }
 .project_Square_Nine {
 width: 100%;
 height: 100%;
-background-image: url(/images/Project_Publications.jpg);
+background-image: url(../images/Project_Publications.jpg);
 background-size: cover;
 float: left;
 }
@@ -239,42 +239,42 @@ float: left;
 .cultural_Square_One{
 width: 100%;
 height: 100%;
-background-image: url(/images/Cultural_MOMA.jpg);
+background-image: url(../images/Cultural_MOMA.jpg);
 background-size: cover;
 float: left;
 }
 .cultural_Square_Two {
 width: 100%;
 height: 100%;
-background-image: url(/images/Cultural_The_Shed.png);
+background-image: url(../images/Cultural_The_Shed.png);
 background-size: cover;
 float: left;
 }
 .cultural_Square_Three {
 width: 100%;
 height: 100%;
-background-image: url(/images/Cultural_Bampfa.jpg);
+background-image: url(../images/Cultural_Bampfa.jpg);
 background-size: cover;
 float: left;
 }
 .cultural_Square_Four {
 width: 100%;
 height: 100%;
-background-image: url(/images/Cultural_Broad_Expansion.jpeg);
+background-image: url(../images/Cultural_Broad_Expansion.jpeg);
 background-size: cover;
 float: left;
 }
 .cultural_Square_Five {
 width: 100%;
 height: 100%;
-background-image: url(/images/Cultural_Unmccat.jpg);
+background-image: url(../images/Cultural_Unmccat.jpg);
 background-size: cover;
 float: left;
 }
 .cultural_Square_Six {
 width: 100%;
 height: 100%;
-background-image: url(/images/Cultural_Sarofim_Hall.jpg);
+background-image: url(../images/Cultural_Sarofim_Hall.jpg);
 background-size: cover;
 float: left;
 }
@@ -338,28 +338,28 @@ float: left;
 .news_Square_One{
 width: 100%;
 height: 100%;
-background-image: url(/images/News_Moma.jpg);
+background-image: url(../images/News_Moma.jpg);
 background-size: cover;
 float: left;
 }
 .news_Square_Two {
 width: 100%;
 height: 100%;
-background-image: url(/images/News_LATIMES.jpg);
+background-image: url(../images/News_LATIMES.jpg);
 background-size: cover;
 float: left;
 }
 .news_Square_Three {
 width: 100%;
 height: 100%;
-background-image: url(/images/News_RiceUniversity.jpg);
+background-image: url(../images/News_RiceUniversity.jpg);
 background-size: cover;
 float: left;
 }
 .news_Square_Four {
 width: 100%;
 height: 100%;
-background-image: url(/images/News_WallStJournal.jpeg);
+background-image: url(../images/News_WallStJournal.jpeg);
 background-size: cover;
 float: left;
 }
@@ -371,7 +371,7 @@ width: 382px;
 height: 364px;
 float: left;
 border-radius: 382px;
-background-image: url(/images/Elizabeth_Diller.jpeg);
+background-image: url(../images/Elizabeth_Diller.jpeg);
 background-size: cover;
 background-position: center;
 margin-top: 136px;
@@ -407,7 +407,7 @@ width: 382px;
 height: 364px;
 float: left;
 border-radius: 382px;
-background-image: url(/images/Ricardo_Scofidio.jpeg);
+background-image: url(../images/Ricardo_Scofidio.jpeg);
 background-size: cover;
 background-position: center;
 margin-top: 136px;
@@ -421,7 +421,7 @@ width: 382px;
 height: 364px;
 float: left;
 border-radius: 382px;
-background-image: url(/images/Charles_Renfro.jpeg);
+background-image: url(../images/Charles_Renfro.jpeg);
 background-size: cover;
 background-position: center;
 margin-top: 136px;
@@ -435,7 +435,7 @@ width: 382px;
 height: 364px;
 float: left;
 border-radius: 382px;
-background-image: url(/images/Benjamin_Gilmartin.jpeg);
+background-image: url(../images/Benjamin_Gilmartin.jpeg);
 background-size: cover;
 background-position: center;
 margin-top: 136px;
@@ -461,7 +461,7 @@ font-family: "Alegreya Sans", sans-serif;
 }
 .moma_Picture_One{
 background-color: white;
-background-image: url(/images/Moma_One.jpg);
+background-image: url(../images/Moma_One.jpg);
 width: 521px;
 height: 819px;
 float: left;
@@ -471,7 +471,7 @@ background-size: cover;
 }
 
 .moma_Picture_Two{
-background-image: url(/images/Moma_Two.jpg);
+background-image: url(../images/Moma_Two.jpg);
 background-size: cover;
 width: 674px;
 height: 439px;
@@ -533,7 +533,7 @@ header{
 .head_logo{
     width: 278px;
     height: 400px;
-    background-image: url(/images/DSR_Logo_White.png);
+    background-image: url(../images/DSR_Logo_White.png);
     background-size:contain;
     margin-left: 61px;
     margin-top: 20px;
